@@ -2,6 +2,7 @@
 ### A Longitudinal Analysis of Mental Health on Reddit
 
 *Objective*: Determine how mental health has fluctuated at different stages of the COVID-19 pandemic based on relevant activity on Reddit.
+
 -----
 It is one year into the COVID-19 pandemic, and everyday life is a far cry from what we were experiencing just 12 months ago. Traditional social patterns worldwide have been disrupted by the need to isolate ourselves for fear of spreading the disease to vulnerable populations. In the wake of such strife and social change, mental and social health has been an oft-neglected consequence of the pandemic. Raging alongside COVID-19 is another, more insidious pandemic: the decline of mental health.
 
