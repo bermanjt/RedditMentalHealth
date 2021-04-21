@@ -12,3 +12,5 @@ We plan to publicize our findings in an accessible, interactive article, as well
 
 While vaccinations may be the light at the end of the tunnel for many, this is not the last pandemic the world will see; by understanding how such a catastrophic event can affect mental health, we can better prepare ourselves for a future pandemic.
 
+
+NOTE: Most of the data is stored locally due to GitHub's repository size constraints
